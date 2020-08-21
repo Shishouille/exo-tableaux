@@ -1,0 +1,14 @@
+{
+  "name": "exo-tableaux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nhacsam/exo-tableaux.git",
+  "author": "Nicolas Djambazian <nicolas@djambazian.fr>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^26.4.1"
+  }
+}
